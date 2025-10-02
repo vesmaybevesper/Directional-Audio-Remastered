@@ -3,24 +3,24 @@ loaderVersion = "[2,)"
 license = "MIT"
 
 [[mods]]
-modId = "modtemplate"
-displayName = "Mod Template"
+modId = "directionalaudioremastered"
+displayName = "Directional Audio Remastered"
 version = "${version}"
 displayURL = ""
 logoFile = "assets/icon.png"
-authors = "A Mod Author"
-description = '''A Mod Description'''
+authors = "VesMaybeVesper"
+description = '''Minecraft's directional audio setting, but good'''
 
 [[mixins]]
 config = "modtemplate.mixins.json"
 
-[[dependencies.modtemplate]]
+[[dependencies.directionalaudioremastered]]
 modId = "neoforge"
 type = "required"
 versionRange = "[1,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
 
-[[dependencies.modtemplate]]
+[[dependencies.directionalaudioremastered]]
 modId = "minecraft"
 type = "required"

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
-  "id": "modtemplate",
-  "name": "Mod Template",
+  "id": "directionalaudioremastered",
+  "name": "Directional Audio Remastered",
   "version": "${version}",
-  "authors": ["A Mod Author"],
+  "authors": ["VesMaybeVesper"],
   "contact": {
     "sources": "",
     "issues": ""
   },
-  "description": "A Mod Description",
+  "description": "Minecraft's directional audio setting, but good",
   "icon": "assets/icon.png",
   "license": "MIT",
   "environment": "*",
-  "accessWidener": "modtemplate.accesswidener",
+  "accessWidener": "directionalaudioremastered.accesswidener",
   "entrypoints": {
     "main": [
-      "dev.spagurder.modtemplate.fabric.FabricEntrypoint"
+      "dev.vesper.directionalaudioremastered.fabric.FabricEntrypoint"
     ],
     "client": [
-      "dev.spagurder.modtemplate.fabric.FabricClientEntrypoint"
+      "dev.vesper.directionalaudioremastered.fabric.FabricClientEntrypoint"
     ],
     "fabric-datagen": [
-      "dev.spagurder.modtemplate.fabric.datagen.FabricDataGeneratorEntrypoint"
+      "dev.vesper.directionalaudioremastered.fabric.datagen.FabricDataGeneratorEntrypoint"
     ]
   },
   "mixins": [
-    "modtemplate.mixins.json"
+    "directionalaudioremastered.mixins.json"
   ],
   "depends": {
     "fabric-api": "*"

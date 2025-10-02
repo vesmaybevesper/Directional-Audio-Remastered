@@ -1,4 +1,4 @@
-package dev.spagurder.modtemplate.neoforge;
+package dev.vesper.directionalaudioremastered.neoforge;
 
 //? neoforge {
 /*import dev.spagurder.modtemplate.ExampleEventHandler; // sample_content

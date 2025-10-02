@@ -1,7 +1,7 @@
-package dev.spagurder.modtemplate.fabric;
+package dev.vesper.directionalaudioremastered.fabric;
 
 //? fabric {
-import dev.spagurder.modtemplate.ModTemplate;
+import dev.vesper.directionalaudioremastered.ModTemplate;
 import net.fabricmc.api.ClientModInitializer;
 
 public class FabricClientEntrypoint implements ClientModInitializer {

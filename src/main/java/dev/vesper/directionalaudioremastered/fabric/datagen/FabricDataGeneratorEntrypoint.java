@@ -1,4 +1,4 @@
-package dev.spagurder.modtemplate.fabric.datagen;
+package dev.vesper.directionalaudioremastered.fabric.datagen;
 
 //? fabric {
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;

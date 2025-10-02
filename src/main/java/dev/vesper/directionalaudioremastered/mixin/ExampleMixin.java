@@ -1,6 +1,6 @@
-package dev.spagurder.modtemplate.mixin;
+package dev.vesper.directionalaudioremastered.mixin;
 
-import dev.spagurder.modtemplate.ModTemplate;
+import dev.vesper.directionalaudioremastered.ModTemplate;
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

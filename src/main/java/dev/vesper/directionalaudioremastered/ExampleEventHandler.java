@@ -1,4 +1,4 @@
-package dev.spagurder.modtemplate;
+package dev.vesper.directionalaudioremastered;
 
 import net.minecraft.server.level.ServerPlayer;
 
